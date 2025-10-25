@@ -1,4 +1,4 @@
-# Ajith_factorial_mpmc_sa1
+# Ronaldroshan_mpmc_sa1
 
 # FACTORIAL-OF-A-NUMBER
 # FACTORIAL OF A NUMBER USING 8086
@@ -74,7 +74,8 @@ end start
 ```
 OUTPUT
 
-<img width="640" height="480" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/bb6f463f-d90e-4750-917a-3e6198ffaa17" />
+<img width="1184" height="864" alt="image" src="https://github.com/user-attachments/assets/e4c7151e-982e-4a15-9ad4-9539ef5afb7f" />
+
 
 
 ---
